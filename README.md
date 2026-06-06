@@ -1,0 +1,1 @@
+# freezedrop_privacy
